@@ -4,7 +4,7 @@
 - 🔭 Current project: **ToDO APP** (Auth + Django + MySQL)
 - ✅ I write tests with pytest and use GitHub Actions (CI)
 - 🌱 Learning: caching, async, system design basics
-- 🌐 Portfolio/LinkedIn: https://www.linkedin.com/feed/
+- 🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/ch-santhosh/
 
 ## Tech
 Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, Pytest, GitHub Actions
